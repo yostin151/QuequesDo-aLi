@@ -1,0 +1,48 @@
+﻿<div class="container">
+    <img src="/images/imagencelu.png" class="imagencelu" alt="Imagen Celular">
+    <h2 class="text-center mb-5">Lista de Productos</h2>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, initial-scale=1.0">
+
+    <div class="row mb-5">
+        <div class="col">
+            <a class="btn btn-primary" asp-controller="Productos" asp-action="Create">Nuevo Producto/New Product</a>
+        </div>
+    </div>
+
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Nombre</th>
+                    <th>Relleno</th>
+                    <th>Categoría</th>
+                    <th>Precio</th>
+                    <th>Imagen</th>
+                    <th>Fecha Creación</th>
+                    <th>Acción</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var producto in Model)
+                {
+                    <tr>
+                        <td>@producto.Id</td>
+                        <td>@producto.Nombre</td>
+                        <td>@producto.Relleno</td>
+                        <td>@producto.Categoria</td>
+                        <td>@(producto.Precio)₡</td>
+                        <td><img src="~/Productos/@producto.Imagen" width="100" alt="Imagen de @producto.Nombre" /></td>
+                        <td>@producto.Fecha_Creacion.ToString("MM/dd/yyyy")</td>
+                        <td style="white-space:nowrap">
+                            <a class="btn btn-primary btn-sm" asp-controller="Productos" asp-action="Editar" asp-route-id="@producto.Id">Editar/Edit</a>
+                            <a class="btn btn-danger btn-sm" asp-controller="Productos" asp-action="Delete" asp-route-id="@producto.Id" onclick="return confirm('¿Esta seguro que desea eliminar para siempre este Pastel?')">Eliminar/Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <a class="btn btn-danger ms-auto" asp-controller="Productos" asp-action="Logout">Salir</a>
+    </div>
+</div>

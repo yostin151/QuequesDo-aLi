@@ -1,0 +1,413 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QuequesDoñaLI_CRUD.bundle.scp.css",
+      "PackagePath": "staticwebassets\\QuequesDoñaLI_CRUD.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\20240705qqtresleches.jpg",
+      "PackagePath": "staticwebassets\\20240705qqtresleches.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos20240705.jpg",
+      "PackagePath": "staticwebassets\\Productos20240705.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\20240705.jpg",
+      "PackagePath": "staticwebassets\\Productos\\20240705.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\202407050123.jpg",
+      "PackagePath": "staticwebassets\\Productos\\202407050123.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\20240705_Tres Leches casero.png",
+      "PackagePath": "staticwebassets\\Productos\\20240705_Tres Leches casero.png"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\20240706234938755.jpg",
+      "PackagePath": "staticwebassets\\Productos\\20240706234938755.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\20240707001655707_PRUEBA.png",
+      "PackagePath": "staticwebassets\\Productos\\20240707001655707_PRUEBA.png"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\20240707221627913_Tres Leches casero.png",
+      "PackagePath": "staticwebassets\\Productos\\20240707221627913_Tres Leches casero.png"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\20240707230339744_Tres Leches casero.png",
+      "PackagePath": "staticwebassets\\Productos\\20240707230339744_Tres Leches casero.png"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\20240710012820077_testing.jpg",
+      "PackagePath": "staticwebassets\\Productos\\20240710012820077_testing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\20240710012938019_Tres Leches casero.png",
+      "PackagePath": "staticwebassets\\Productos\\20240710012938019_Tres Leches casero.png"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\20240710013053581.png",
+      "PackagePath": "staticwebassets\\Productos\\20240710013053581.png"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\20240710020258597_SS.png",
+      "PackagePath": "staticwebassets\\Productos\\20240710020258597_SS.png"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\Frio2.jpg",
+      "PackagePath": "staticwebassets\\Productos\\Frio2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\Vainilla_Pequeño1.jpg",
+      "PackagePath": "staticwebassets\\Productos\\Vainilla_Pequeño1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\Vainilla_pequeño2.jpg",
+      "PackagePath": "staticwebassets\\Productos\\Vainilla_pequeño2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\boda1.jpg",
+      "PackagePath": "staticwebassets\\Productos\\boda1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\boda2.jpg",
+      "PackagePath": "staticwebassets\\Productos\\boda2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\choco.jpg",
+      "PackagePath": "staticwebassets\\Productos\\choco.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\choco_vainilla.jpg",
+      "PackagePath": "staticwebassets\\Productos\\choco_vainilla.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\cupcakes.jpg",
+      "PackagePath": "staticwebassets\\Productos\\cupcakes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\doble.jpg",
+      "PackagePath": "staticwebassets\\Productos\\doble.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\frio1.jpg",
+      "PackagePath": "staticwebassets\\Productos\\frio1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\frio3.jpg",
+      "PackagePath": "staticwebassets\\Productos\\frio3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\guayabagrande.jpg",
+      "PackagePath": "staticwebassets\\Productos\\guayabagrande.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\lustremantequilla.jpg",
+      "PackagePath": "staticwebassets\\Productos\\lustremantequilla.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\moca.jpg",
+      "PackagePath": "staticwebassets\\Productos\\moca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\Productos\\velvet.jpg",
+      "PackagePath": "staticwebassets\\Productos\\velvet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\images\\BACKGROUNDPRODUCTO3.png",
+      "PackagePath": "staticwebassets\\images\\BACKGROUNDPRODUCTO3.png"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\images\\BACKGROUNDPRODUCTOS.jpg",
+      "PackagePath": "staticwebassets\\images\\BACKGROUNDPRODUCTOS.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\images\\BACKGROUNDPRODUCTOSOLD2.jpg",
+      "PackagePath": "staticwebassets\\images\\BACKGROUNDPRODUCTOSOLD2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\images\\BACKGROUNDPRODUCTOSOLD3.png",
+      "PackagePath": "staticwebassets\\images\\BACKGROUNDPRODUCTOSOLD3.png"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\images\\BACKGROUNDPRODUCTOSold.png",
+      "PackagePath": "staticwebassets\\images\\BACKGROUNDPRODUCTOSold.png"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\images\\LOGO.png",
+      "PackagePath": "staticwebassets\\images\\LOGO.png"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\images\\canva1.jpg",
+      "PackagePath": "staticwebassets\\images\\canva1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\images\\imagencelu.png",
+      "PackagePath": "staticwebassets\\images\\imagencelu.png"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\images\\imagenceluold.jpg",
+      "PackagePath": "staticwebassets\\images\\imagenceluold.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yosti\\Desktop\\Ingenieria en Informatica\\5_OpDB, ManProy,PrograIII.Net\\Progra3_Asp.netcore_C#\\Proyects\\1\\QuequesDoñaLI_CRUD\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.QuequesDoñaLI_CRUD.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.QuequesDoñaLI_CRUD.props",
+      "PackagePath": "build\\QuequesDoñaLI_CRUD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.QuequesDoñaLI_CRUD.props",
+      "PackagePath": "buildMultiTargeting\\QuequesDoñaLI_CRUD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.QuequesDoñaLI_CRUD.props",
+      "PackagePath": "buildTransitive\\QuequesDoñaLI_CRUD.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
