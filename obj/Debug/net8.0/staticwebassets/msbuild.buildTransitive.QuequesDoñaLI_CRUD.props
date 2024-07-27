@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\QuequesDoñaLI_CRUD.props" />
-</Project>

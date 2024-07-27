@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\QuequesDoñaLI_CRUD.props" />
-</Project>
